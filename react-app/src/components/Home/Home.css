@@ -1,0 +1,22 @@
+/* Add your CSS for the home section */
+.home {
+    background-color: #ffffff;
+    padding: 60px 0;
+    text-align: center;
+  }
+  .home__title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  .home__description {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  .button {
+    padding: 10px 20px;
+    background-color: #f7b731;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  

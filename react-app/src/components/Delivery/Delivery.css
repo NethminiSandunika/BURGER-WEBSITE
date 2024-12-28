@@ -1,0 +1,18 @@
+/* Delivery Section */
+.delivery {
+    padding: 80px 0;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .delivery__title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .delivery__description {
+    font-size: 1.2rem;
+    color: #777;
+  }
+  
